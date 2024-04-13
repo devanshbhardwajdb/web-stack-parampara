@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <title>xyz</title>
+      <title>Devansh Web Stack</title>
       
      
       <body>
